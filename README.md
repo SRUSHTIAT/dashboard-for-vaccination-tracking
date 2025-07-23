@@ -1,3 +1,4 @@
+# dashboard for tracking vaccination records
 the dashboard facilitates efficient communication between healthcare 
 facilities and patients by providing reminders for upcoming vaccinations and alerts for 
 any adverse effects. Key features include a centralized data repository for all types of 
